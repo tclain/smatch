@@ -3,7 +3,7 @@
 ### Usage
 
 ```bash
-npm install --save @tclain/smatch
+npm install --save https://github.com/tclain/smatch.git
 ```
 
 
