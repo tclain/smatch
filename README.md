@@ -1,4 +1,4 @@
-# A simple pattern matching system for typescript
+# A simple pattern matching system for typescript (pre-alpha)
 
 ### Usage
 
@@ -9,10 +9,10 @@ npm install --save @tclain/smatch
 
 ### Features
 
- [ ] Match values
- [ ] Container Type (monadish)
- [ ] Match Container
- [ ] Match Instance
+- [ ] Match values
+- [ ] Container Type (monadish)
+- [ ] Match Container
+- [ ] Match Instance
 
 ### Importing library
 
